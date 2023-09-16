@@ -1,0 +1,4 @@
+# Project exclude paths
+/tp-Persistencia/.gradle/
+/tp-Persistencia/build/
+/tp-Persistencia/build/classes/java/main/
